@@ -1,0 +1,48 @@
+{
+  "jobName": "interview_01",
+  "status": "COMPLETED",
+  "results": {
+    "speaker_labels": {
+      "speakers": 2,
+      "segments": [
+        {
+          "start_time": "0.00",
+          "end_time": "4.50",
+          "speaker_label": "spk_0"
+        },
+        {
+          "start_time": "4.51",
+          "end_time": "12.00",
+          "speaker_label": "spk_1"
+        }
+      ]
+    },
+    "items": [
+      {
+        "start_time": "0.00",
+        "end_time": "4.50",
+        "type": "pronunciation",
+        "speaker_label": "spk_0",
+        "alternatives": [
+          { "content": "Can you explain your experience with AWS and data engineering?" }
+        ]
+      },
+      {
+        "start_time": "4.51",
+        "end_time": "12.00",
+        "type": "pronunciation",
+        "speaker_label": "spk_1",
+        "alternatives": [
+          {
+            "content": "I have worked on AWS services like S3, Lambda, and Snowflake for building scalable data pipelines."
+          }
+        ]
+      }
+    ],
+    "transcripts": [
+      {
+        "transcript": "Can you explain your experience with AWS and data engineering? I have worked on AWS services like S3, Lambda, and Snowflake for building scalable data pipelines."
+      }
+    ]
+  }
+}
