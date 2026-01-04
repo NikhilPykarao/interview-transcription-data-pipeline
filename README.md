@@ -75,4 +75,4 @@ Key fields:
 
 ## 👤 Author
 **Nikhil**  
-Aspiring Data Engineer | SQL | Snowflake | AWS
+Data Engineer | SQL | Snowflake | AWS
